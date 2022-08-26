@@ -12,9 +12,12 @@
   "author": "Leonel Zeballos zeballosleonel3@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "prettier": "2.7.1"
-  }
+  },
+  "type": "module"
 }
